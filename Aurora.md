@@ -1,0 +1,1 @@
+Aurora is a relational databse model with a Cloud-based database hosting model. Amazon aurora is comemrcial and can be accessed at: https://aws.amazon.com/rds/aurora/. Both java and python can be used from AWS SDKs for each language.
