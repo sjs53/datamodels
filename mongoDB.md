@@ -1,0 +1,1 @@
+MongoDB is a document based data model, with the hosting model being client-server. MongoDB is an open-source database which can be acessed from the following website: https://www.mongodb.com/. The server can be accessed using either java, python, and many other programing languages.
