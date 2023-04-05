@@ -1,0 +1,1 @@
+PcostgreSQL is a relational database model with a client/serve hosting model. PostgreSQL is open source and can be accessed at: https://www.postgresql.org/. Both python and java can access PostgreSQL using PostgreSQL JDBC driver and psycopg2.
