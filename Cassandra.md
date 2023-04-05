@@ -1,0 +1,1 @@
+Cassandra is a Column-family data model with a Distributed database hosting model. Cassandra is open source and is avalible at https://cassandra.apache.org/_/index.html/. Both java and python are supported using the respective drives.
