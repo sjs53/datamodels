@@ -1,0 +1,1 @@
+Oracle is a relational database model with a client-server hosting model. Oracle Database is comercial product and can be purchased at https://www.oracle.com/database/. Both java and python can be used to access oracle, java using the Oracle JDBC driver and python using cx_Oracle library.
