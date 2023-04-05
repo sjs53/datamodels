@@ -6,6 +6,6 @@ Homework 0: DataModel Ontology
 * neo4J: neo4J.md
 * PostgreSQL:  PostgreSQL.md
 * Redis: Redis.md
-* CassandraL: cssandra.md
+* Cassandra: Cassandra.md
 * Amazon Aurora: Aurora.md
 * MariaDB: mariaDB.md
