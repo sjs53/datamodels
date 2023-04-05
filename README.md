@@ -2,10 +2,10 @@
 Homework 0: DataModel Ontology
 
 * MongoDB: mongoDB.md
-* Oracle Database
-* Microsoft Access
-* PostgreSQL
-* Redis
-* Cassandra
-* Amazon Aurora
-* MariaDB
+* Oracle Database: Oracle.md
+* 
+* PostgreSQL:  Postgre.md
+* Redis: Redis.md
+* CassandraL: cssandra.md
+* Amazon Aurora: Aurora.md
+* MariaDB: mariaDB.md
